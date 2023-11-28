@@ -6,15 +6,27 @@ import numpy as np
 import gspread
 from google.oauth2.service_account import Credentials
 from gspread_dataframe import set_with_dataframe
+from dotenv import load_dotenv
+import os
+
+# 環境変数の読み込み
+load_dotenv()
+
+# 環境変数から認証情報を取得
+SPREADSHEET_ID = os.getenv("SPREADSHEET_ID")
+PRIVATE_KEY_PATH = os.getenv("PRIVATE_KEY_PATH")
+
+# SUUMO 物件検索URL
+SUUMO_BASE_URL = "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&ta=13&sc=13102&sc=13103&sc=13106&sc=13123&sc=13109&sc=13112&cb=0.0&ct=9999999&mb=0&mt=9999999&et=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&sngz=&po1=09&page={}"
 
 # Google スプレッドシートへの認証を行い、gspreadクライアントオブジェクトを返す関数。
-def authenticate_spreadsheet(credential_file):
+def authenticate_spreadsheet():
     scopes = [
         'https://www.googleapis.com/auth/spreadsheets',
         'https://www.googleapis.com/auth/drive'
     ]
     credentials = Credentials.from_service_account_file(
-        credential_file,
+        PRIVATE_KEY_PATH,
         scopes=scopes
     )
     return gspread.authorize(credentials)
@@ -188,10 +200,10 @@ def process_real_estate_data(dataframe):
 def main():
     # スプレッドシートの認証
     print("1.スプレッドシートアクセス認証")
-    gc = authenticate_spreadsheet("grspread_key.json")
+    gc = authenticate_spreadsheet()
 
     # スクレイピング
-    base_url = "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&ta=13&sc=13102&sc=13103&sc=13106&sc=13123&sc=13109&sc=13112&cb=0.0&ct=9999999&mb=0&mt=9999999&et=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&sngz=&po1=09&page={}"
+    base_url = SUUMO_BASE_URL
     max_page = 6
     print("2.スクレイピング開始", " : ページ数", max_page)
     scraped_data = scrape_real_estate_data(base_url, max_page)
@@ -203,7 +215,7 @@ def main():
     # スプレッドシートに書き込み
     tab_w0 = "tech0_90"
     print("3.不動産データの生データを書き込み", " : タブ名", tab_w0)
-    write_to_spreadsheet(gc, '1oU1wQ59l8ID72PhOnazL639Jo3Dac2mPalKKaFiN3Gg', tab_w0, df)
+    write_to_spreadsheet(gc, SPREADSHEET_ID, tab_w0, df)
 
     # データ加工
     print("4.不動産データの加工開始")
@@ -213,7 +225,7 @@ def main():
     # スプレッドシートに書き込み
     tab_w1 = "tech0_91"
     print("5.不動産データの加工データを書き込み", " : タブ名", tab_w1)
-    write_to_spreadsheet(gc, '1oU1wQ59l8ID72PhOnazL639Jo3Dac2mPalKKaFiN3Gg', tab_w1, processed_df)
+    write_to_spreadsheet(gc, SPREADSHEET_ID, tab_w1, processed_df)
 
 if __name__ == "__main__":
     main()
