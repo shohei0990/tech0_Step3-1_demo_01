@@ -1,4 +1,5 @@
 # tech0_Step3-1_demo_01
+
 ## ファイル
 ```
 .env.sample                # 環境変数のダミーデータ
@@ -11,9 +12,13 @@ test.txt
 ※ グーグルスプレッドシート認証手続き必要  
 ※ grspread_key.json  取得必要  
   
-参考サイト) https://www.youtube.com/watch?v=uBy7F4Wd9cE&t=948s
+参考) https://www.youtube.com/watch?v=uBy7F4Wd9cE&t=948s
 
 ## 補足
 gitignoreを行う際には、gitのキャッシュが残っている場合には反映されない場合があるので注意  
 キャッシュを削除するコマンドが必要  
-https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4
+参考) https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4  
+
+gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存、環境変数のパス指定から読み込みを行うため本来はコードと同じディレクトリにも置かない。
+
+
