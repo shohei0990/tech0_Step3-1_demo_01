@@ -15,3 +15,8 @@ test.txt
 ※ grspread_key.json  取得必要  
   
 参考サイト) https://www.youtube.com/watch?v=uBy7F4Wd9cE&t=948s
+
+## 補足
+gitignoreを行う際には、gitのキャッシュが残っている場合には反映されない場合があるので注意  
+キャッシュを削除するコマンドが必要  
+https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4
