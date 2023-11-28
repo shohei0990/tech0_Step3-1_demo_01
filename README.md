@@ -7,5 +7,5 @@
 ・Step3_Scraping_sample01.py  
 上記の機能の関数化・統合化  
 
-※ グーグルスプレッドシート認証手続き  
-※ grspread_key.json  の取得が必要
+※ グーグルスプレッドシート認証手続き必要
+※ grspread_key.json  取得必要
