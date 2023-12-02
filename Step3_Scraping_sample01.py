@@ -9,7 +9,7 @@ from gspread_dataframe import set_with_dataframe
 from dotenv import load_dotenv
 import os
 
-# 環境変数の読み込み
+# 環境変数の読み込み.
 load_dotenv()
 
 # 環境変数から認証情報を取得
