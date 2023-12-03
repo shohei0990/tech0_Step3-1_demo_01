@@ -1,14 +1,28 @@
 # tech0_Step3-1_demo_01
 
 <br>
-
-## 🔳 データ収集・加工・保存コード
+```
+20231127_TECHO_STEP3_1_01/
+│
+├── .env.sample        # 環境変数のダミーデータ
+├── .gitignore         # git-hubプッシュ時のファイル対象除外設定
+├── README.md
+│
+├── app/ (またはfrontend/)
+│   └── Step3_Streamlit.py   
+│
+└── scraping/
+    ├── Step3_Scraping_sample01.py
+    └── Step3_Scraping.ipynb
+```
+<br>
+    
+## 🔳 データ収集・加工・保存コード scraping
 ```
 .env.sample                # 環境変数のダミーデータ
 .gitignore                 # git-hubプッシュ時のファイル対象除外設定
 Step3_Scraping.ipynb       # 不動産データのスクレイピング・データ加工等の各コード機能確認用  
-Step3_Scraping_sample01.py # 上記の機能の関数化・統合化 
-test.txt                     
+Step3_Scraping_sample01.py # 上記の機能の関数化・統合化                     
 ```
 
 ※ グーグルスプレッドシート認証手続き必要  
@@ -26,9 +40,8 @@ gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存�
 <br>
 <br>
 <br>
-<br>
 
-## 🔳 物件検索・表示アプリコード
+## 🔳 物件検索・表示アプリコード app
 
 ```
 Step3_Streamlit.py                # 物件検索・表示アプリ
