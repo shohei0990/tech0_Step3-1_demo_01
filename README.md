@@ -39,7 +39,6 @@ gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存�
 
 <br>
 <br>
-<br>
 
 ## 🔳 物件検索・表示アプリコード app
 
