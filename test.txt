@@ -3,21 +3,21 @@
 <div class="cassetteitem-detail-object">
 <div class="cassetteitem_object">
 <div class="cassetteitem_object-item">
-<img alt="" class="js-noContextMenu js-linkImage js-scrollLazy js-adjustImg" height="0" rel="https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_gw.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D" width="0"/>
+<img alt="" class="js-noContextMenu js-linkImage js-scrollLazy js-adjustImg" height="0" rel="https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_gw.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D" width="0"/>
 </div>
 </div>
 </div>
 <div class="cassetteitem-detail-body">
 <div class="cassetteitem_content">
 <div class="cassetteitem_content-label"><span class="ui-pct ui-pct--util1">賃貸マンション</span></div>
-<div class="cassetteitem_content-title">アーバン増渕</div>
+<div class="cassetteitem_content-title">スカイコート品川</div>
 <div class="cassetteitem_content-body">
 <ul class="cassetteitem_detail">
-<li class="cassetteitem_detail-col1">東京都品川区西品川２</li>
+<li class="cassetteitem_detail-col1">東京都品川区北品川３</li>
 <li class="cassetteitem_detail-col2">
-<div class="cassetteitem_detail-text">ＪＲ埼京線/大崎駅 歩10分</div>
-<div class="cassetteitem_detail-text">東急大井町線/下神明駅 歩10分</div>
-<div class="cassetteitem_detail-text">ＪＲ京浜東北線/大井町駅 歩20分</div>
+<div class="cassetteitem_detail-text">京急本線/新馬場駅 歩3分</div>
+<div class="cassetteitem_detail-text">ＪＲ山手線/大崎駅 歩13分</div>
+<div class="cassetteitem_detail-text">京急本線/北品川駅 歩11分</div>
 </li>
 <li class="cassetteitem_detail-col3">
 <div>築38年</div>
@@ -46,64 +46,11 @@
 <tbody>
 <tr class="js-cassette_link">
 <td class="cassetteitem_other-checkbox cassetteitem_other-checkbox--newarrival js-cassetteitem_checkbox">
-<input class="js-ikkatsuCB js-single_checkbox" id="bukken_0" name="bc" type="checkbox" value="100354069856"/><label for="bc"> </label>
+<input class="js-ikkatsuCB js-single_checkbox" id="bukken_0" name="bc" type="checkbox" value="100355398966"/><label for="bc"> </label>
 </td>
 <td>
-<div class="casssetteitem_other-thumbnail js-view_gallery_images js-noContextMenu" data-imgs="https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_go.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_co.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_ro.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_11o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_7o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_8o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_9o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_10o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_s2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_s1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_4o.jpg">
-<img alt="" class="casssetteitem_other-thumbnail-img casssetteitem_other-thumbnail-img--hasimages js-view_gallery-modal js-scrollLazy" rel="https://img01.suumo.com/front/gazo/fr/bukken/856/100354069856/100354069856_co.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D"/>
-<span class="cassetteitem_other-thumbnail-expansion js-view_gallery-modal"></span>
-</div>
-</td>
-<td>
-											2階</td>
-<td>
-<ul>
-<li><span class="cassetteitem_price cassetteitem_price--rent"><span class="cassetteitem_other-emphasis ui-text--bold">15万円</span></span></li>
-<li><span class="cassetteitem_price cassetteitem_price--administration">5000円</span></li>
-</ul>
-</td>
-<td>
-<ul>
-<li><span class="cassetteitem_price cassetteitem_price--deposit">-</span></li>
-<li><span class="cassetteitem_price cassetteitem_price--gratuity">-</span></li>
-</ul>
-</td>
-<td>
-<ul>
-<li><span class="cassetteitem_madori">1LDK</span></li>
-<li><span class="cassetteitem_menseki">26.6m<sup>2</sup></span></li>
-</ul>
-</td>
-<td>
-<ul class="cassetteitem-taglist">
-<li><span class="cassetteitem-tag">動画</span></li>
-</ul>
-</td>
-<td class="js-property">
-<input class="js-clipkey" type="hidden" value="100354069856"/>
-<a class="ui-btn ui-favorite cassette_favorite cassette_favorite--sm js-addMyList js-linkSuppresser" href="javascript:void(0);">
-<span class="ui-favorite-icon cassette_favorite-icon"><span class="fr_list-eachicon fr_list-eachicon--favorite"></span></span>
-<span class="ui-favorite-text">追加</span>
-<span class="ui-favorite-icon_add cassette_favorite-icon_add"><span class="fr_list-eachicon fr_list-eachicon--favorite_add"></span></span>
-<span class="ui-favorite-text_add">追加</span>
-</a>
-</td>
-<td class="ui-text--midium ui-text--bold">
-<a class="js-cassette_link_href cassetteitem_other-linktext" href="/chintai/jnc_000086509817/?bc=100354069856" onclick="sendBeaconSiteCatalystClick(event,this,'click_casset_bkn_link',false);" target="_blank">詳細を見る</a><button class="js-kobetsuShiryoSeikyu cassetteitem_other-inquiry_button" type="button">
-												お問い合わせ
-													<span class="cassetteitem_other-inquiry_text">(無料)</span>
-</button>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr class="js-cassette_link">
-<td class="cassetteitem_other-checkbox cassetteitem_other-checkbox--newarrival js-cassetteitem_checkbox">
-<input class="js-ikkatsuCB js-single_checkbox" id="bukken_0" name="bc" type="checkbox" value="100354005348"/><label for="bc"> </label>
-</td>
-<td>
-<div class="casssetteitem_other-thumbnail js-view_gallery_images js-noContextMenu" data-imgs="https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_go.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_co.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_ro.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_9o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_10o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_4o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_8o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_11o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_7o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_s4o.jpg">
-<img alt="" class="casssetteitem_other-thumbnail-img casssetteitem_other-thumbnail-img--hasimages js-view_gallery-modal js-scrollLazy" rel="https://img01.suumo.com/front/gazo/fr/bukken/348/100354005348/100354005348_co.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D"/>
+<div class="casssetteitem_other-thumbnail js-view_gallery_images js-noContextMenu" data-imgs="https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_go.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_co.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_ro.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_4o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_7o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_8o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_10o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_11o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_9o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s4o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_s6o.jpg">
+<img alt="" class="casssetteitem_other-thumbnail-img casssetteitem_other-thumbnail-img--hasimages js-view_gallery-modal js-scrollLazy" rel="https://img01.suumo.com/front/gazo/fr/bukken/966/100355398966/100355398966_co.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D"/>
 <span class="cassetteitem_other-thumbnail-expansion js-view_gallery-modal"></span>
 </div>
 </td>
@@ -111,29 +58,30 @@
 											3階</td>
 <td>
 <ul>
-<li><span class="cassetteitem_price cassetteitem_price--rent"><span class="cassetteitem_other-emphasis ui-text--bold">4.5万円</span></span></li>
-<li><span class="cassetteitem_price cassetteitem_price--administration">5000円</span></li>
+<li><span class="cassetteitem_price cassetteitem_price--rent"><span class="cassetteitem_other-emphasis ui-text--bold">4.9万円</span></span></li>
+<li><span class="cassetteitem_price cassetteitem_price--administration">-</span></li>
 </ul>
 </td>
 <td>
 <ul>
-<li><span class="cassetteitem_price cassetteitem_price--deposit">-</span></li>
-<li><span class="cassetteitem_price cassetteitem_price--gratuity">-</span></li>
+<li><span class="cassetteitem_price cassetteitem_price--deposit">4.9万円</span></li>
+<li><span class="cassetteitem_price cassetteitem_price--gratuity">4.9万円</span></li>
 </ul>
 </td>
 <td>
 <ul>
 <li><span class="cassetteitem_madori">ワンルーム</span></li>
-<li><span class="cassetteitem_menseki">15.6m<sup>2</sup></span></li>
+<li><span class="cassetteitem_menseki">9.75m<sup>2</sup></span></li>
 </ul>
 </td>
 <td>
 <ul class="cassetteitem-taglist">
 <li><span class="cassetteitem-tag">動画</span></li>
+<li><span class="cassetteitem-tag">パノラマ</span></li>
 </ul>
 </td>
 <td class="js-property">
-<input class="js-clipkey" type="hidden" value="100354005348"/>
+<input class="js-clipkey" type="hidden" value="100355398966"/>
 <a class="ui-btn ui-favorite cassette_favorite cassette_favorite--sm js-addMyList js-linkSuppresser" href="javascript:void(0);">
 <span class="ui-favorite-icon cassette_favorite-icon"><span class="fr_list-eachicon fr_list-eachicon--favorite"></span></span>
 <span class="ui-favorite-text">追加</span>
@@ -142,59 +90,7 @@
 </a>
 </td>
 <td class="ui-text--midium ui-text--bold">
-<a class="js-cassette_link_href cassetteitem_other-linktext" href="/chintai/jnc_000086522717/?bc=100354005348" onclick="sendBeaconSiteCatalystClick(event,this,'click_casset_bkn_link',false);" target="_blank">詳細を見る</a><button class="js-kobetsuShiryoSeikyu cassetteitem_other-inquiry_button" type="button">
-												お問い合わせ
-													<span class="cassetteitem_other-inquiry_text">(無料)</span>
-</button>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr class="js-cassette_link">
-<td class="cassetteitem_other-checkbox cassetteitem_other-checkbox--newarrival js-cassetteitem_checkbox">
-<input class="js-ikkatsuCB js-single_checkbox" id="bukken_0" name="bc" type="checkbox" value="100354010128"/><label for="bc"> </label>
-</td>
-<td>
-<div class="casssetteitem_other-thumbnail js-view_gallery_images js-noContextMenu" data-imgs="https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_go.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_co.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_ro.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_4o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_5o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_7o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_8o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_9o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s3o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s1o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s2o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s4o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s6o.jpg,https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_s5o.jpg">
-<img alt="" class="casssetteitem_other-thumbnail-img casssetteitem_other-thumbnail-img--hasimages js-view_gallery-modal js-scrollLazy" rel="https://img01.suumo.com/front/gazo/fr/bukken/128/100354010128/100354010128_co.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D"/>
-<span class="cassetteitem_other-thumbnail-expansion js-view_gallery-modal"></span>
-</div>
-</td>
-<td>
-											3階</td>
-<td>
-<ul>
-<li><span class="cassetteitem_price cassetteitem_price--rent"><span class="cassetteitem_other-emphasis ui-text--bold">4.5万円</span></span></li>
-<li><span class="cassetteitem_price cassetteitem_price--administration">5000円</span></li>
-</ul>
-</td>
-<td>
-<ul>
-<li><span class="cassetteitem_price cassetteitem_price--deposit">-</span></li>
-<li><span class="cassetteitem_price cassetteitem_price--gratuity">-</span></li>
-</ul>
-</td>
-<td>
-<ul>
-<li><span class="cassetteitem_madori">ワンルーム</span></li>
-<li><span class="cassetteitem_menseki">15.6m<sup>2</sup></span></li>
-</ul>
-</td>
-<td>
-<ul class="cassetteitem-taglist">
-</ul>
-</td>
-<td class="js-property">
-<input class="js-clipkey" type="hidden" value="100354010128"/>
-<a class="ui-btn ui-favorite cassette_favorite cassette_favorite--sm js-addMyList js-linkSuppresser" href="javascript:void(0);">
-<span class="ui-favorite-icon cassette_favorite-icon"><span class="fr_list-eachicon fr_list-eachicon--favorite"></span></span>
-<span class="ui-favorite-text">追加</span>
-<span class="ui-favorite-icon_add cassette_favorite-icon_add"><span class="fr_list-eachicon fr_list-eachicon--favorite_add"></span></span>
-<span class="ui-favorite-text_add">追加</span>
-</a>
-</td>
-<td class="ui-text--midium ui-text--bold">
-<a class="js-cassette_link_href cassetteitem_other-linktext" href="/chintai/jnc_000086522718/?bc=100354010128" onclick="sendBeaconSiteCatalystClick(event,this,'click_casset_bkn_link',false);" target="_blank">詳細を見る</a><button class="js-kobetsuShiryoSeikyu cassetteitem_other-inquiry_button" type="button">
+<a class="js-cassette_link_href cassetteitem_other-linktext" href="/chintai/jnc_000086687705/?bc=100355398966" onclick="sendBeaconSiteCatalystClick(event,this,'click_casset_bkn_link',false);" target="_blank">詳細を見る</a><button class="js-kobetsuShiryoSeikyu cassetteitem_other-inquiry_button" type="button">
 												お問い合わせ
 													<span class="cassetteitem_other-inquiry_text">(無料)</span>
 </button>

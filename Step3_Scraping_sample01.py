@@ -1,13 +1,14 @@
-import requests
+import os
+from dotenv import load_dotenv
 import re
-from bs4 import BeautifulSoup
+import requests
 import pandas as pd
 import numpy as np
+from bs4 import BeautifulSoup
 import gspread
 from google.oauth2.service_account import Credentials
 from gspread_dataframe import set_with_dataframe
-from dotenv import load_dotenv
-import os
+from geopy.geocoders import Nominatim
 
 # 環境変数の読み込み
 load_dotenv()
