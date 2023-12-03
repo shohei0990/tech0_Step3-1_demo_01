@@ -21,4 +21,13 @@ gitignoreを行う際には、gitのキャッシュが残っている場合に�
 
 gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存、環境変数のパス指定から読み込みを行うため本来はコードと同じディレクトリにも置かない。
 
+# 物件検索・表示アプリ
+
+・掲示板アプリ
+![Image 2](https://imgur.com/Bdxw09e.jpg)
+  
+・掲示板動作例
+![Image 1](https://imgur.com/8MaMreT.jpg)
+
+
 
