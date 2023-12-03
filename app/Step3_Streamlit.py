@@ -16,7 +16,7 @@ load_dotenv()
 # 環境変数から認証情報を取得
 SPREADSHEET_ID = os.getenv("SPREADSHEET_ID")
 PRIVATE_KEY_PATH = os.getenv("PRIVATE_KEY_PATH")
-SP_SHEET     = 'tech0_91' # sheet名
+SP_SHEET     = 'tech0_01' # sheet名
 
 # セッション状態の初期化
 if 'show_all' not in st.session_state:
