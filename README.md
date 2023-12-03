@@ -26,8 +26,6 @@ gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存�
 ```
 Step3_Streamlit.py                # 物件検索・表示アプリ
 ```
-
-## 検索条件＆マップ表示
 ![Image 2](https://imgur.com/Bdxw09e.jpg)
 
 ![Image 1](https://imgur.com/8MaMreT.jpg)
