@@ -9,7 +9,7 @@
 ├── .gitignore         # git-hubプッシュ時のファイル対象除外設定
 ├── README.md
 │
-├── app/ (またはfrontend/)
+├── app/
 │   └── Step3_Streamlit.py   
 │
 └── scraping/
