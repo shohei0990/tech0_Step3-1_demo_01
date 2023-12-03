@@ -21,8 +21,6 @@
     
 ## 🔳 データ収集・加工・保存コード scraping
 ```
-.env.sample                # 環境変数のダミーデータ
-.gitignore                 # git-hubプッシュ時のファイル対象除外設定
 Step3_Scraping.ipynb       # 不動産データのスクレイピング・データ加工等の各コード機能確認用  
 Step3_Scraping_sample01.py # 上記の機能の関数化・統合化                     
 ```
