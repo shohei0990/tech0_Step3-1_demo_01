@@ -2,7 +2,7 @@
 
 <br>
 
-## ● データ収集・加工・保存コード
+## 🔳 データ収集・加工・保存コード
 ```
 .env.sample                # 環境変数のダミーデータ
 .gitignore                 # git-hubプッシュ時のファイル対象除外設定
@@ -16,7 +16,7 @@ test.txt
   
 参考) https://www.youtube.com/watch?v=uBy7F4Wd9cE&t=948s
 
-## 補足
+## 補足.
 gitignoreを行う際には、gitのキャッシュが残っている場合には反映されない場合があるので注意  
 キャッシュを削除するコマンドが必要  
 参考) https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4  
@@ -28,7 +28,7 @@ gitignore内に/grspread_key.jsonとあるが基本別のフォルダに保存�
 <br>
 <br>
 
-## ● 物件検索・表示アプリコード
+## 🔳 物件検索・表示アプリコード
 
 ```
 Step3_Streamlit.py                # 物件検索・表示アプリ
