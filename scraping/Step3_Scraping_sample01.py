@@ -101,7 +101,7 @@ def scrape_real_estate_data(base_url, max_page):
 
                 # ここで各物件のデータを取得し、all_dataに追加
                 all_data.append(data)    
-                
+
     return all_data
 
 # 築年数の加工
@@ -212,6 +212,9 @@ def main():
 
     # データフレームに変換
     df = pd.DataFrame(scraped_data)
+
+    # 重複データの削除
+    df = df.drop_duplicates() 
 
     # スプレッドシートに書き込み
     tab_w0 = "tech0_90"
