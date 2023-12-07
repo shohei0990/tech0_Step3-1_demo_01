@@ -17,8 +17,8 @@ load_dotenv()
 SPREADSHEET_ID = os.getenv("SPREADSHEET_ID")
 PRIVATE_KEY_PATH = os.getenv("PRIVATE_KEY_PATH")
 
-# SUUMO 物件検索URL
-SUUMO_BASE_URL = "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&ta=13&sc=13102&sc=13103&sc=13106&sc=13123&sc=13109&sc=13112&cb=0.0&ct=9999999&mb=0&mt=9999999&et=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&sngz=&po1=09&page={}"
+# 物件検索URL
+BASE_URL = "*********"
 
 # Google スプレッドシートへの認証を行い、gspreadクライアントオブジェクトを返す関数。
 def authenticate_spreadsheet():
@@ -97,7 +97,7 @@ def scrape_real_estate_data(base_url, max_page):
                 data["間取画像URL"] = floor_plan_image_element.img["rel"] if floor_plan_image_element and floor_plan_image_element.img else None
 
                 property_link_element = item.select_one("a[href*='/chintai/jnc_']")
-                data["物件詳細URL"] = "https://suumo.jp" +property_link_element['href'] if property_link_element else None
+                data["物件詳細URL"] = "****" +property_link_element['href'] if property_link_element else None
 
                 # ここで各物件のデータを取得し、all_dataに追加
                 all_data.append(data)    
@@ -204,7 +204,7 @@ def main():
     gc = authenticate_spreadsheet()
 
     # スクレイピング
-    base_url = SUUMO_BASE_URL
+    base_url = BASE_URL
     max_page = 6
     print("2.スクレイピング開始", " : ページ数", max_page)
     scraped_data = scrape_real_estate_data(base_url, max_page)
